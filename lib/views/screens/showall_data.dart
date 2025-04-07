@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:get/get.dart';
 import 'package:sqlite_image/views/screens/show_details.dart';
 import 'package:sqlite_image/views/screens/update_screens.dart';
